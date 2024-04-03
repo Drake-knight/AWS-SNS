@@ -25,7 +25,7 @@ exports.handler = async (event, context) => {
       default: 'default',
       GCM: {
         notification: {
-          body: 'If you came here to read this you are true homie',
+          body: '-----||------',
           title: 'hehe',
           sound: 'default',
         },
